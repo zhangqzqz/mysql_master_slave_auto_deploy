@@ -1,0 +1,4 @@
+
+paramiko==2.4.1
+PyMySQL==0.8.1
+prettytable==0.7.2
